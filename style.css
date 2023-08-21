@@ -1,0 +1,23 @@
+table{
+    border: 1px solid;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.display-box{
+    width: 98%;
+    height: 70px;
+    border: 2px solid;
+    
+}
+input[type="button"]{
+    width: 100%;
+    padding: 20px 40px;
+    background-color: grey;
+    color: white;
+    font-size: 1.5rem;
+    border-radius: 5px;
+}
+.head{
+    text-align: center;
+}
